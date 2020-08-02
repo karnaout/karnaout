@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am **Khaled** (pronouns like Dj. Khaled :D)
+
+- 🔭 I’m currently working for Harvard University.
+- 🌱 I’m currently learning Python and Django.
+- 👯 I’m looking to collaborate on Open Source projects. 
+
 <!--
 **karnaout/karnaout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
